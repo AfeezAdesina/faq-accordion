@@ -92,6 +92,7 @@ h6 {
     left:0;
     bottom: 350px;
     margin:auto;
+    height: fit-content;
     
 }
 .headline, .header{
